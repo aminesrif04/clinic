@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "name_fr": "Dr. Sarah Jenkins",
+    "name_ar": "د. سارة جينكينز",
+    "specialty_fr": "Cardiologie",
+    "specialty_ar": "أمراض القلب",
+    "image": "https://images.unsplash.com/photo-1559839734-2b71ea197ec2?w=800&q=80",
+    "bio_fr": "Le Dr. Sarah Jenkins est une cardiologue certifiée avec plus de 15 ans d'expérience au sein des plus grands centres hospitaliers internationaux. Spécialisée dans les maladies cardiovasculaires complexes, elle a dirigé de nombreux essais cliniques internationaux. Son approche place toujours le patient au cœur du traitement pour assurer un suivi humain et une récupération optimale.",
+    "bio_ar": "د. سارة جينكينز طبيبة قلب معتمدة بخبرة تزيد عن 15 عاماً في كبرى المستشفيات العالمية. متخصصة في أمراض القلب والأوعية الدموية المعقدة وقادت عدة تجارب سريرية دولية. يركز نهجها دائمًا على وضع المريض في قلب العلاج لضمان متابعة إنسانية وتعافٍ مثالي.",
+    "expertise_fr": ["Cardiologie interventionnelle", "Échocardiographie avancée", "Prévention des maladies cardiaques"],
+    "expertise_ar": ["طب القلب التداخلي", "تخطيط صدى القلب المتقدم", "الوقاية من أمراض القلب"],
+    "languages": ["Anglais", "Français", "Arabe"],
+    "department_ids": [10, 1]
+  },
+  {
+    "id": 2,
+    "name_fr": "Dr. Michael Chen",
+    "name_ar": "د. مايكل تشين",
+    "specialty_fr": "Neurologie",
+    "specialty_ar": "طب الأعصاب",
+    "image": "https://images.unsplash.com/photo-1612349317150-e413f6a5b16d?w=800&q=80",
+    "bio_fr": "Le Dr. Michael Chen est un pionnier de la neurologie moderne reconnu pour ses recherches sur les maladies dégénératives. Avec une formation pointue en neurophysiologie, il diagnostique et traite efficacement les troubles neurologiques les plus complexes afin d'améliorer la qualité de vie de ses patients de tous âges.",
+    "bio_ar": "د. مايكل تشين هو رائد في طب الأعصاب الحديث معروف بأبحاثه في الأمراض التنكسية. يتمتع بخلفية واسعة في الفسيولوجيا العصبية، ويقوم بتشخيص وعلاج اضطرابات الأعصاب الأكثر تعقيدًا بنجاح لتحسين نوعية حياة مرضاه من جميع الأعمار.",
+    "expertise_fr": ["Sclérose en plaques", "Troubles du mouvement", "Épilepsie complexe"],
+    "expertise_ar": ["التصلب المتعدد", "اضطرابات الحركة", "الصرع المعقد"],
+    "languages": ["Anglais", "Mandarin", "Français"],
+    "department_ids": [7, 1]
+  },
+  {
+    "id": 3,
+    "name_fr": "Dr. Emily Rostova",
+    "name_ar": "د. إيميلي روستوفا",
+    "specialty_fr": "Orthopédie",
+    "specialty_ar": "جراحة العظام المدعومة روبوتياً",
+    "image": "/images/dr-rostova.png",
+    "bio_fr": "Une experte de renommée mondiale en chirurgie orthopédique et en reconstruction articulaire. Elle utilise la technologie chirurgicale robotique de pointe permettant d'assurer une précision millimétrique, une récupération remarquablement rapide et des opérations quasi-indolores.",
+    "bio_ar": "خبيرة عالمية في جراحة العظام وتصحيح المفاصل. تستخدم تقنيات الجراحة الروبوتية المتقدمة لضمان دقة لا متناهية وتعافٍ سريع بشكل ملحوظ وعمليات شبه خالية من الألم.",
+    "expertise_fr": ["Chirurgie robotique du genou", "Remplacement de la hanche", "Traumatologie sportive"],
+    "expertise_ar": ["جراحة الركبة الروبوتية", "استبدال الورك", "طب الإصابات الرياضية"],
+    "languages": ["Anglais", "Russe", "Français"],
+    "department_ids": [5, 4]
+  },
+  {
+    "id": 4,
+    "name_fr": "Dr. Ahmed Al-Sayed",
+    "name_ar": "د. أحمد السيد",
+    "specialty_fr": "Pédiatrie",
+    "specialty_ar": "الجراحة العامة",
+    "image": "https://images.unsplash.com/photo-1622253692010-333f2da6031d?w=800&q=80",
+    "bio_fr": "Reconnu dans le monde médical pour son approche bienveillante et ses compétences chirurgicales exceptionnelles. Le Dr. Al-Sayed est entièrement dévoué au bien-être de ses patients avec l'utilisation de techniques chirurgicales de pointe dites ultra-mini-invasives.",
+    "bio_ar": "يُعرف في جميع أنحاء العالم الطبي بنهجه العطوف ومهاراته الجراحية الاستثنائية. يكرس د. السيد اهتمامه الكامل لرفاهية مرضاه باستخدام تقنيات جراحية دقيقة للغاية.",
+    "expertise_fr": ["Chirurgie laparoscopique", "Soins intensifs pédiatriques", "Chirurgie générale avancée"],
+    "expertise_ar": ["الجراحة بالمنظار", "العناية المركزة للأطفال", "الجراحة العامة المتقدمة"],
+    "languages": ["Arabe", "Anglais"],
+    "department_ids": [9, 4, 3]
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "id": 1,
+    "name_fr": "Radiologie et Scanner",
+    "name_ar": "قسم الأشعة والتصوير المقطعي",
+    "icon": "Radiation",
+    "image": "https://images.unsplash.com/photo-1516062423079-7ca13cdc7f5a?q=80&w=1600",
+    "desc_fr": "Un centre d'imagerie diagnostique à la pointe de la technologie pour des résultats rapides et précis.",
+    "desc_ar": "مركز تشخيصي بالأشعة المتطورة للحصول على نتائج سريعة ودقيقة.",
+    "services_fr": ["Scanner (TDM)", "Mammographie Numérique 3D", "Échographie Dopplers et 4D", "Radiologie Conventionnelle"],
+    "services_ar": ["الأشعة المقطعية", "الماموجرام الرقمي 3D", "التصوير بالموجات فوق الصوتية 4D", "الأشعة الرقمية العادية"],
+    "equipments_fr": ["Scanner Multibarette Haute Résolution", "IRM 1.5 Tesla dernière génération", "Échographe 4D Doppler", "Mammographe Numérique 3D"],
+    "equipments_ar": ["جهاز تصوير مقطعي متعدد الشرائح", "رنين مغناطيسي 1.5 تسلا", "جهاز موجات فوق صوتية 4D", "جهاز ماموجرام رقمي 3D"],
+    "gallery": [
+      "https://images.unsplash.com/photo-1516062423079-7ca13cdc7f5a?q=80&w=1600",
+      "https://images.unsplash.com/photo-1582719471384-894fbb16e074?q=80&w=1600",
+      "https://images.unsplash.com/photo-1559757175-5700dde675bc?q=80&w=1600"
+    ],
+    "detailed_content_fr": [
+      "La radiologie est la spécialité médicale qui utilise les rayonnements et d'autres agents physiques pour explorer, diagnostiquer et traiter diverses pathologies. Qu'il s'agisse d'un dépistage préventif, d'un diagnostic urgent ou d'un suivi de traitement, notre département vous assure une prise en charge rapide et d'une précision absolue.",
+      "La Polyclinique Tafilalet vous met en relation avec des médecins radiologues de premier plan qui interviennent sur de nombreuses investigations corporelles. En s'appuyant sur un plateau technique de toute dernière génération, notre service d'imagerie détecte les anomalies les plus infimes afin d'orienter au mieux les décisions chirurgicales."
+    ],
+    "detailed_content_ar": [
+      "الأشعة هي التخصص الطبي الذي يستخدم الإشعاع والوسائط الفيزيائية الأخرى لاستكشاف وتشخيص وعلاج الأمراض المختلفة. سواء كان فحصًا وقائيًا، أو تشخيصًا طارئًا، يضمن لك قسمنا رعاية سريعة ودقة متناهية.",
+      "تضعك مصحة تافيلالت على تواصل مع نخبة من أطباء الأشعة المتخصصين في الفحوصات الجسدية الشاملة. بالاعتماد على منصة تقنية من أحدث طراز، يكتشف قسم التصوير لدينا أدق التشوهات لتوجيه القرارات الجراحية بشكل مثالي."
+    ],
+    "team": [
+      { "name_fr": "Khadija Amrani", "name_ar": "خديجة العمراني", "role_fr": "Infirmière", "role_ar": "ممرضة", "image": "/images/team/nurse-1.png" },
+      { "name_fr": "Omar Benchekroun", "name_ar": "عمر بنشقرون", "role_fr": "Technicien Radio", "role_ar": "تقني أشعة", "image": "/images/team/tech-1.png" }
+    ]
+  },
+  {
+    "id": 2,
+    "name_fr": "Gynécologie Obstétrique",
+    "name_ar": "أمراض النساء والولادة",
+    "icon": "Baby",
+    "image": "https://images.unsplash.com/photo-1584982751601-97dcc096659c?q=80&w=1600",
+    "desc_fr": "Des soins complets pour les femmes à toutes les étapes de leur vie dans un département moderne.",
+    "desc_ar": "رعاية شاملة للنساء في كافة مراحل حياتهن في قسم حديث ومجهز.",
+    "services_fr": ["Suivi de Grossesse", "Accouchement", "Chirurgie Gynécologique", "Bilan de Fertilité"],
+    "services_ar": ["متابعة الحمل", "الولادة", "جراحة أمراض النساء", "تقييم وعلاج العقم"],
+    "equipments_fr": ["Moniteur fœtal (Cardiotocographe)", "Échographe Gynécologique 3D/4D", "Matériel de réanimation néonatale intégré", "Colposcope haute définition"],
+    "equipments_ar": ["جهاز تخطيط قلب الجنين", "جهاز موجات ثلاثية ورباعية الأبعاد", "معدات إنعاش متكاملة لحديثي الولادة", "مجهر عنق الرحم عالي الدقة"],
+    "gallery": [
+      "https://images.unsplash.com/photo-1584982751601-97dcc096659c?q=80&w=1600",
+      "https://images.unsplash.com/photo-1551076805-e1869033e561?q=80&w=1600",
+      "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=1600"
+    ],
+    "detailed_content_fr": [
+      "La gynécologie-obstétrique est la spécialité médico-chirurgicale consacrée à la physiologie et aux affections du système génital de la femme, ainsi qu'au suivi de la grossesse et de l'accouchement. Qu'il s'agisse d'un contrôle de routine, du traitement d'une pathologie complexe ou de l'accueil d'une nouvelle vie.",
+      "La clinique vous met en relation avec des gynécologues-obstétriciens expérimentés intervenant sur toutes les affections féminines. Alliant bloc obstétrical de pointe et confort hôtelier, notre service garantit une prise en charge respectueuse, sûre et hautement médicalisée en cas d'intervention en urgence."
+    ],
+    "detailed_content_ar": [
+      "أمراض النساء والولادة هو التخصص الطبي والجراحي المكرس لفسيولوجيا وأمراض الجهاز التناسلي للمرأة، بالإضافة إلى متابعة الحمل والولادة. سواء كان فحصًا روتينيًا أو علاجًا لحالة مستعصية.",
+      "تضعك المصحة على تواصل مع أطباء نساء وتوليد ذوي خبرة يتدخلون في جميع الحالات النسائية. يضمن قسمنا، الذي يجمع بين غرف ولادة متطورة وراحة فندقية، رعاية آمنة ومجهزة تجهيزًا عاليًا في حالات الطوارئ."
+    ],
+    "team": [
+      { "name_fr": "Fatima Zahra Idrissi", "name_ar": "فاطمة الزهراء الإدريسي", "role_fr": "Sage-femme", "role_ar": "قابلة", "image": "/images/team/nurse-2.png" },
+      { "name_fr": "Rachid El Fassi", "name_ar": "رشيد الفاسي", "role_fr": "Technicien Écho", "role_ar": "تقني أشعة صوتية", "image": "/images/team/tech-2.png" }
+    ]
+  },
+  {
+    "id": 3,
+    "name_fr": "Endoscopie Digestive",
+    "name_ar": "التنظير الداخلي والجهاز الهضمي",
+    "icon": "Microscope",
+    "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?q=80&w=1600",
+    "desc_fr": "Des traitements ultra-mini-invasifs pour des récupérations extrêmement rapides.",
+    "desc_ar": "علاجات تداخلية دقيقة لتعافٍ سريع ومضاعفات أقل.",
+    "services_fr": ["Gastroscopie et Coloscopie", "Extraction de Polypes", "Cœlioscopie Biliaire", "Écho-endoscopie"],
+    "services_ar": ["تنظير المعدة والقولون", "استئصال الأورام", "منظار المرارة", "تنظير بالموجات فوق الصوتية"],
+    "equipments_fr": ["Vidéocoloscope Olympus HD", "Gastroscope ultra-fin", "Bistouri électrique Argon", "Échographe endoscopique"],
+    "equipments_ar": ["منظار قولون فيديو عالي الدقة", "منظار معدة دقيق جدا", "مشرط أرجون كهربائي", "منظار موجات فوق صوتية"],
+    "gallery": [
+      "https://images.unsplash.com/photo-1579684385127-1ef15d508118?q=80&w=1600",
+      "https://images.unsplash.com/photo-1530497610245-94d3c16cda28?q=80&w=1600",
+      "https://images.unsplash.com/photo-1516549655169-dc83a0774514?q=80&w=1600"
+    ],
+    "detailed_content_fr": [
+      "L’endoscopie digestive est la composante essentielle pour l'exploration, le diagnostic et le traitement des maladies du tube digestif (œsophage, estomac, côlon). Qu'il s'agisse de douleurs inexpliquées, de dépistage de tumeurs malignes ou du retrait de polypes.",
+      "La clinique vous dote d'une infrastructure réunissant gastro-entérologues et chirurgiens. Grâce à des caméras microscopiques et des sondes optiques, l’endoscopie limite toute intrusion physique lourde, offrant des opérations quasi-indolores avec un retour au domicile très rapide."
+    ],
+    "detailed_content_ar": [
+      "التنظير الهضمي هو المكون الأساسي لاستكشاف وتشخيص وعلاج أمراض الجهاز الهضمي (المريء، المعدة، القولون). سواء للآلام غير المبررة أو فحص الأورام.",
+      "توفر لك المصحة بنية تحتية تجمع بين أطباء الجهاز الهضمي والجراحين. بفضل الكاميرات المجهرية والألياف الضوئية، يحد التنظير من أي تدخل جراحي كبير، مما يوفر عمليات غير مؤلمة تقريبًا مع عودة سريعة للمنزل."
+    ],
+    "team": [
+      { "name_fr": "Nadia Berrada", "name_ar": "نادية برادة", "role_fr": "Infirmière", "role_ar": "ممرضة", "image": "/images/team/nurse-3.png" },
+      { "name_fr": "Youssef Tazi", "name_ar": "يوسف التازي", "role_fr": "Technicien Endo", "role_ar": "تقني تنظير", "image": "/images/team/tech-3.png" }
+    ]
+  },
+  {
+    "id": 4,
+    "name_fr": "Chirurgie Générale",
+    "name_ar": "الجراحة العامة",
+    "icon": "Syringe",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869033e561?q=80&w=1600",
+    "desc_fr": "Des opérations réparatrices rapides réalisées par des chirurgiens chevronnés.",
+    "desc_ar": "عمليات جراحية وتدخلات سريعة من قبل جراحين ذوي خبرة ممتازة.",
+    "services_fr": ["Chirurgie Digestive", "Chirurgie Endocrinienne", "Urgences Chirurgicales", "Traitement des Hernies"],
+    "services_ar": ["جراحة الجهاز الهضمي", "جراحة الغدد الصماء", "طوارئ الجراحة", "علاج الفتق بأنواعه"],
+    "equipments_fr": ["Bloc opératoire modulaire norme ISO 5", "Colonne de Cœlio-chirurgie 4K", "Bistouris à ultrasons", "Table chirurgicale intelligente multifonction"],
+    "equipments_ar": ["غرفة عمليات معيارية بمواصفات أيزو", "برج جراحة المناظير المتقدم 4K", "مشارط جراحية تعمل بالموجات فوق الصوتية", "طاولة عمليات ذكية بالكامل"],
+    "gallery": [
+      "https://images.unsplash.com/photo-1551076805-e1869033e561?q=80&w=1600",
+      "https://images.unsplash.com/photo-1581594693702-fbdc51b2763b?q=80&w=1600",
+      "https://images.unsplash.com/photo-1579684453423-f84349ef60b0?q=80&w=1600"
+    ],
+    "detailed_content_fr": [
+      "La chirurgie générale est la discipline opératoire fondatrice qui traite les anomalies et pathologies des organes intra-abdominaux et du système digestif. Qu'il s'agisse d'une appendicite, de calculs vésiculaires ou d'un acte curatif sur les glandes endocrines.",
+      "La clinique met à votre disposition des chirurgiens généraux de renom s'appuyant sur des blocs opératoires ultra-stériles. Souvent orientée vers les méthodes laparoscopiques (sans grande ouverture), l'approche chirurgicale favorise la diminution drastique du risque d'infection."
+    ],
+    "detailed_content_ar": [
+      "الجراحة العامة هي التخصص الجراحي التأسيسي الذي يعالج تشوهات وأمراض أعضاء البطن والجهاز الهضمي. سواء كانت الزائدة الدودية حصوات المرارة أو الغدد الصماء.",
+      "تضع المصحة رهن إشارتكم جراحين ذوي كفاءة عالية يعتمدون على غرف عمليات فائقة التعقيم. نعتمد بشكل أساسي على منهجيات الجراحة بالمنظار والتي تساعد على تقليل مخاطر العدوى بشكل جذري."
+    ],
+    "team": [
+      { "name_fr": "Samira Ouazzani", "name_ar": "سميرة الوزاني", "role_fr": "Infirmier Bloc", "role_ar": "ممرض عمليات", "image": "/images/team/nurse-3.png" },
+      { "name_fr": "Mehdi Lahlou", "name_ar": "مهدي لحلو", "role_fr": "Tech. Instru.", "role_ar": "تقني أدوات", "image": "/images/team/tech-3.png" }
+    ]
+  },
+  {
+    "id": 5,
+    "name_fr": "Traumatologie et Orthopédie",
+    "name_ar": "جراحة العظام والمفاصل",
+    "icon": "Bone",
+    "image": "https://images.unsplash.com/photo-1582719478250-c89400bbbfc5?q=80&w=1600",
+    "desc_fr": "Des prothèses articulaires de pointe à la médecine sportive pour retrouver sa mobilité.",
+    "desc_ar": "من المفاصل الصناعية المتقدمة إلى الطب الرياضي لاستعادة الحركة بمرونة.",
+    "services_fr": ["Prothèses (Hanche, Genou)", "Chirurgie de la Main", "Traumatologie du Sport", "Arthroscopie"],
+    "services_ar": ["استبدال المفاصل (الورك، الركبة)", "جراحة اليد", "علاج إصابات الملاعب", "تنظير المفاصل"],
+    "equipments_fr": ["Moteur chirurgical Stryker", "Amplificateur de brillance arceau", "Guides chirurgicaux imprimés en 3D", "Arthroscopes Ultra-HD"],
+    "equipments_ar": ["محرك جراحي دقيق Stryker", "جهاز تصوير تكبيري شعاعي", "أدلة جراحية ثلاثية الأبعاد", "مناظير المفاصل عالية الدقة"],
+    "gallery": [
+      "https://images.unsplash.com/photo-1582719478250-c89400bbbfc5?q=80&w=1600",
+      "https://images.unsplash.com/photo-1584033325603-ecc80fa0d6a4?q=80&w=1600",
+      "https://images.unsplash.com/photo-1574068305047-3beefa8590d9?q=80&w=1600"
+    ],
+    "detailed_content_fr": [
+      "L'orthopédie et la traumatologie constituent la spécialité médico-chirurgicale dédiée aux maladies, déformations et traumatismes de l'appareil locomoteur (os, articulations, ligaments, tendons, muscles). Qu'il s'agisse d'une fracture, d'une usure articulaire (arthrose) ou d'une déchirure sportive.",
+      "La clinique vous propose les techniques chirurgicales les plus modernes, allant de l'arthroscopie (chirurgie de l'intérieur de l'articulation par micro-caméra) à la mise en place de prothèses prothétiques sur-mesure pour retrouver votre pleine mobilité."
+    ],
+    "detailed_content_ar": [
+      "جراحة العظام والكسور هي التخصص المكرس لأمراض وتشوهات وإصابات الجهاز الحركي (العظام، المفاصل، الأربطة والأوتار). سواء كان كسرًا، أو تآكلًا مفصليًا، أو تمزقًا رياضيًا.",
+      "تقدم المصحة أحدث التقنيات الجراحية من تنظير المفاصل (جراحة داخل المفصل عن طريق كاميرا دقيقة) إلى تركيب المفاصل الصناعية المخصصة لاستعادة الحركة الكاملة بدون ألم."
+    ],
+    "team": [
+      { "name_fr": "Hassan Skalli", "name_ar": "حسن الصقلي", "role_fr": "Infirmier Ortho", "role_ar": "ممرض عظام", "image": "/images/team/nurse-4.png" },
+      { "name_fr": "Imane Chraibi", "name_ar": "إيمان الشرايبي", "role_fr": "Tech. Rééd.", "role_ar": "تقنية تأهيل", "image": "/images/team/tech-4.png" }
+    ]
+  },
+  {
+    "id": 6,
+    "name_fr": "Urologie",
+    "name_ar": "جراحة المسالك البولية",
+    "icon": "Droplet",
+    "image": "https://images.unsplash.com/photo-1530497610245-94d3c16cda28?q=80&w=1600",
+    "desc_fr": "Un diagnostic confidentiel et efficace pour le système urinaire de l'homme et de la femme.",
+    "desc_ar": "تشخيص سري وفعال وعلاجات متقدمة للجهاز البولي للرجال والنساء.",
+    "services_fr": ["Traitement des Calculs par Laser", "Chirurgie de la Prostate", "Urologie Oncologique", "Incontinence"],
+    "services_ar": ["تفتيت الحصى بالليزر", "استئصال البروستاتا والتضخم", "جراحة أورام المسالك", "علاج سلس البول"],
+    "equipments_fr": ["Lithotripteur à ondes de choc", "Laser Holmium pour énucléation", "Cystoscopes flexibles", "Échographe prostatique endorectal"],
+    "equipments_ar": ["نظام تفتيت الحصى بالموجات", "ليزر هولميوم متقدم", "مناظير مثانة مرنة", "جهاز فحص بروستاتا داخلي"],
+    "gallery": [
+      "https://images.unsplash.com/photo-1530497610245-94d3c16cda28?q=80&w=1600",
+      "https://images.unsplash.com/photo-1579684453423-f84349ef60b0?q=80&w=1600",
+      "https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?q=80&w=1600"
+    ],
+    "detailed_content_fr": [
+      "L'urologie est la spécialité médico-chirurgicale qui prend en charge les affections de l'appareil urinaire des deux sexes (reins, vessie, uretères) ainsi que celles de l'appareil génital masculin (prostate, testicules). Qu'il s'agisse de calculs, d'incontinence ou de tumeurs.",
+      "Nos urologues disposent d'équipements de pointe, en particulier la technologie laser, pour pulvériser les calculs en toute innocuité et traiter la prostate sans recourir à la chirurgie ouverte classique. La confidentialité et le respect du patient sont au cœur de nos soins."
+    ],
+    "detailed_content_ar": [
+      "جراحة المسالك البولية هي التخصص المكرس لعلاج أمراض الجهاز البولي للجنسين (الكلى، المثانة) والأعضاء التناسلية الذكرية (البروستاتا). سواء تعلق الأمر بالحصوات أو السلس الأولي أو الأورام.",
+      "يمتلك أطباء المسالك البولية لدينا أحدث المعدات وخصوصاً تقنية الليزر لتفتيت الحصوات بأمان وعلاج البروستاتا دون لجوء للجراحة المفتوحة."
+    ],
+    "team": [
+      { "name_fr": "Latifa Bennani", "name_ar": "لطيفة بناني", "role_fr": "Infirmière Uro", "role_ar": "ممرضة مسالك", "image": "/images/team/nurse-5.png" },
+      { "name_fr": "Amine Kettani", "name_ar": "أمين الكتاني", "role_fr": "Tech. Laser", "role_ar": "تقني ليزر", "image": "/images/team/tech-5.png" }
+    ]
+  },
+  {
+    "id": 7,
+    "name_fr": "Neurochirurgie",
+    "name_ar": "جراحة الدماغ والأعصاب",
+    "icon": "Brain",
+    "image": "https://images.unsplash.com/photo-1559757175-5700dde675bc?q=80&w=1600",
+    "desc_fr": "Une précision millimétrique pour le système nerveux central et périphérique.",
+    "desc_ar": "دقة لا متناهية لعلاج أمراض الدماغ والعمود الفقري والجهاز العصبي.",
+    "services_fr": ["Tumeurs Cérébrales", "Microchirurgie du Dos", "Hernie Discale", "Neurochirurgie Péridurale"],
+    "services_ar": ["استئصال أورام الدماغ", "الجراحة المجهرية للظهر", "الانزلاق الغضروفي", "جراحات الحبل الشوكي"],
+    "equipments_fr": ["Microscope opératoire Leica", "Station de Neuronavigation", "CUSA (Aspirateur ultrasonique)", "Moteur pneumatique crânien"],
+    "equipments_ar": ["مجهر جراحي عصبي Leica", "نظام الملاحة العصبية الجراحي", "جهاز الشفط بالموجات الصوتية", "نظام الفتح الدماغي الآلي"],
+    "gallery": [
+      "https://images.unsplash.com/photo-1559757175-5700dde675bc?q=80&w=1600",
+      "https://images.unsplash.com/photo-1582719478250-c89400bbbfc5?q=80&w=1600",
+      "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?q=80&w=1600"
+    ],
+    "detailed_content_fr": [
+      "La neurochirurgie est la discipline médicale d'élite traitant chirurgicalement les pathologies du système nerveux central (cerveau et moelle épinière) et périphérique. Qu'il s'agisse d'une hernie discale invalidante, de lésions nerveuses ou de tumeurs cérébrales.",
+      "Notre clinique est équipée d'une station de neuronavigation et de microscopes surpuissants. L’extrême précision de nos neurochirurgiens permet de préserver toutes les fonctions vitales et cognitives lors d'interventions considérées comme les plus délicates en médecine."
+    ],
+    "detailed_content_ar": [
+      "جراحة المخ والأعصاب هي التخصص الطبي النخبوي لمعالجة أمراض الجهاز العصبي المركزي (الدماغ والحبل الشوكي). سواء كان انزلاقاً غضروفياً معيقاً، أو أوراماً دماغية.",
+      "تم تجهيز المصحة بنظام الملاحة العصبية والمجاهر الفائقة. تتيح الدقة القصوى لجراحينا الحفاظ على جميع الوظائف الحيوية الإدراكية خلال العمليات الأكثر دقة وتعقيداً في عالم الطب."
+    ],
+    "team": [
+      { "name_fr": "Zineb Alaoui", "name_ar": "زينب العلوي", "role_fr": "Infirmière Neuro", "role_ar": "ممرضة أعصاب", "image": "/images/team/nurse-6.png" },
+      { "name_fr": "Karim Hajji", "name_ar": "كريم الحاجي", "role_fr": "Tech. Neuro-Nav", "role_ar": "تقني ملاحة", "image": "/images/team/tech-6.png" }
+    ]
+  },
+  {
+    "id": 8,
+    "name_fr": "Chirurgie ORL",
+    "name_ar": "جراحة الأذن والأنف والحنجرة",
+    "icon": "Ear",
+    "image": "https://images.unsplash.com/photo-1516549655169-dc83a0774514?q=80&w=1600",
+    "desc_fr": "Résoudre les troubles respiratoires, troubles de l'ouïe et de l'équilibre de façon permanente.",
+    "desc_ar": "حل المشاكل المرتبطة بالسمع والتنفس والتوازن بأحدث التقنيات الطبية المتاحة.",
+    "services_fr": ["Chirurgie Nasale et Sinus", "Ablation des Amygdales", "Microchirurgie Auriculaire", "Traitement de l'Apnée"],
+    "services_ar": ["تعديل الحاجز الأنفي", "استئصال اللوزتين واللحمية", "الجراحة المجهرية للأذن", "علاج توقف التنفس المنامي"],
+    "equipments_fr": ["Navigateur pour chirurgie des sinus", "Système Laser CO2", "Microdébrideur ORL", "Audiomètre cabine intégrée"],
+    "equipments_ar": ["نظام تتبع لجراحة الجيوب الأنفية", "ليزر ثاني أكسيد الكربون", "مشرط الجيوب الأنفية الدقيق", "كابينة قياس السمع المعزولة"],
+    "gallery": [
+      "https://images.unsplash.com/photo-1516549655169-dc83a0774514?q=80&w=1600",
+      "https://images.unsplash.com/photo-1579684385127-1ef15d508118?q=80&w=1600",
+      "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=1600"
+    ],
+    "detailed_content_fr": [
+      "L’Oto-Rhino-Laryngologie (ORL) est la spécialité dédiée au diagnostic et au traitement de l'ensemble des maladies affectant le nez, la gorge, les oreilles mais aussi les voies respiratoires et la région cervico-faciale. Qu'il s'agisse de végétations chez l'enfant ou de perte auditive chez l'adulte.",
+      "Les chirurgiens ORL de la clinique utilisent la micro-endoscopie permettant d’éliminer les troubles respiratoires chroniques et la ronchopathie de façon permanente. Nos installations sécurisent l'acte opératoire pour une réhabilitation très courte."
+    ],
+    "detailed_content_ar": [
+      "طب الأذن والأنف والحنجرة (ORL) مكرس لتشخيص وعلاج جميع الأمراض التي تصيب الأنف والحنجرة والأذنين. سواء تعلق بضعف السمع لدى الكبار أو تضخم اللحمية لدى الأطفال.",
+      "يستخدم أطباء الأنف والأذن والحنجرة في المصحة المناظير المجهرية التي توفر حلاً دائماً لاضطرابات التنفس المزمنة. تضمن معداتنا عمليات آمنة تماماً وتأهيلاً سريعاً للمريض."
+    ],
+    "team": [
+      { "name_fr": "Houda Filali", "name_ar": "هدى الفيلالي", "role_fr": "Infirmière ORL", "role_ar": "ممرضة أنف وأذن", "image": "/images/team/nurse-7.png" },
+      { "name_fr": "Samir Belhaj", "name_ar": "سمير بلحاج", "role_fr": "Tech. Audio", "role_ar": "تقني سمعيات", "image": "/images/team/tech-7.png" }
+    ]
+  },
+  {
+    "id": 9,
+    "name_fr": "Pédiatrie",
+    "name_ar": "طب وجراحة الأطفال",
+    "icon": "Smile",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=1600",
+    "desc_fr": "Le paradis des enfants au milieu des blouses blanches. Des soins ludiques et spécialisés.",
+    "desc_ar": "رعاية وعناية مخصصة لراحة الأطفال وطمأنة الآباء، بعيداً عن ضغوطات المستشفى المعتادة.",
+    "services_fr": ["Chirurgie Viscérale Pédiatrique", "Urologie de l'Enfant", "Urgences Pédiatriques 24/7", "Bilan de Croissance"],
+    "services_ar": ["جراحات الأحشاء وطب الأطفال", "مسالك بولية للأطفال حصريا", "طوارئ أطفال 24/7", "فحص نمو وصحة الطفل"],
+    "equipments_fr": ["Couveuses interactives GE", "Matériel de perfusion microgoutte", "Moniteur de surveillance pédiatrique", "Endoscopes format infant"],
+    "equipments_ar": ["حضانات ذكية ومحاكية", "معدات تنقيط وريدي دقيقة", "شاشات مراقبة مخصصة للأطفال", "مناظير مصغرة للأطفال"],
+    "gallery": [
+      "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=1600",
+      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=1600",
+      "https://images.unsplash.com/photo-1544837525-460d37eac88a?q=80&w=1600"
+    ],
+    "detailed_content_fr": [
+      "La pédiatrie est la spécialité consacrée au développement physiologique, psychologique et pathologique de l'enfant, du fœtus jusqu'à l'adolescent. Qu'il s'agisse d'une pathologie congénitale, d'une urgence médicale infantile, ou d'une anomalie de la croissance.",
+      "La clinique comprend que l'hôpital peut être intimidant. C'est pourquoi notre pôle infantile arbore des couleurs apaisantes et du matériel chirurgical (endoscopes et instruments) spécifiquement conçu pour l'anatomie miniature des enfants, manipulé par des chirurgiens pédiatriques de renommée."
+    ],
+    "detailed_content_ar": [
+      "طب الأطفال هو التخصص المكرس للنمو الفسيولوجي والنفسي للطفل، من الجنين إلى المراهقة. سواء كان تشوهاً خلقياً أو حالة طبية طارئة أو تقييماً للنمو البنيوي للطفل.",
+      "تدرك المصحة أن المستشفى قد يكون مرعباً للأطفال. ولهذا السبب تم تصميم القسم بألوان مريحة ومعدات جراحية مصممة حصرياً للتشريح المصغر للأطفال، تحت تصرف جراحين متخصصين برعوا في التعامل مع الصغار."
+    ],
+    "team": [
+      { "name_fr": "Amina Raji", "name_ar": "أمينة الراجي", "role_fr": "Infirmière Péd.", "role_ar": "ممرضة أطفال", "image": "/images/team/nurse-8.png" },
+      { "name_fr": "Driss Mouline", "name_ar": "إدريس مولين", "role_fr": "Tech. Pédia.", "role_ar": "تقني أطفال", "image": "/images/team/tech-8.png" }
+    ]
+  },
+  {
+    "id": 10,
+    "name_fr": "Réanimation et Soins Intensifs",
+    "name_ar": "الإنعاش والعناية المركزة",
+    "icon": "HeartPulse",
+    "image": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=1600",
+    "desc_fr": "Une unité vitale ultra-connectée pour le suivi permanent et instantané des cas majeurs.",
+    "desc_ar": "وحدة حيوية متقدمة للمراقبة المستمرة واللحظية للحالات الحرجة ومابعد العمليات.",
+    "services_fr": ["Assistance Respiratoire", "Monitorage Hémodynamique 24/7", "Réanimation Post-Opératoire", "Traumatismes Lourds"],
+    "services_ar": ["الدعم التنفسي المتقدم", "المراقبة الديناميكية 24/7", "العناية الفائقة لما بعد العمليات الجراحية المفتوحة", "استقبال ورعاية صدمات الحوادث"],
+    "equipments_fr": ["Respirateurs artificiels Hamilton", "Moniteurs multiparamétriques centraux", "Lits de réanimation automatisés", "Pompes et seringues électriques intelligentes"],
+    "equipments_ar": ["أجهزة التنفس الاصطناعي الذكية", "شاشات القياسات الحيوية المركزية", "أسرة إنعاش ورعاية مؤتمتة", "مضخات الأدوية الوريدية الكهربائية"],
+    "gallery": [
+      "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?q=80&w=1600",
+      "https://images.unsplash.com/photo-1516062423079-7ca13cdc7f5a?q=80&w=1600",
+      "https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?q=80&w=1600"
+    ],
+    "detailed_content_fr": [
+      "La réanimation (ou Soins Intensifs/ICU) est la spécialité majeure consacrée à la survie des patients en détresse vitale, souffrant de défaillance respiratoire, cardiaque ou métabolique. C'est l'ultime barricade médicale post-opératoire et d'urgence absolue.",
+      "Notre unité hyper-connectée est dotée d'algorithmes et de moniteurs prédictifs. Sous l'œil vigilant d'une équipe de réanimateurs-anesthésistes postée nuit et jour, la moindre variation est corrigée en quelques secondes. Ce plateau est le cœur garantissant la sécurité opérationnelle de toute la clinique."
+    ],
+    "detailed_content_ar": [
+      "الإنعاش (ICU) هو التخصص الرئيسي المكرس لبقاء المرضى ذوي الحالات الحرجة والذين يعانون من قصور تنفسي أو قلبي. إنه الجدار الطبي الأخير والدعامة الرئيسية للعمليات المعقدة.",
+      "تم تجهيز وحدتنا المتصلة بخوارزميات ذكية وشاشات تنبقية. وتحت التأهب التام لفريق من أطباء الإنعاش والتخدير المتواجدين ليلا ونهارا، يتم تصحيح أي خلل وظيفي في ثوان، لضمان أعلى معايير السلامة التشغيلية الممكنة."
+    ],
+    "team": [
+      { "name_fr": "Souad Zouak", "name_ar": "سعاد الزواق", "role_fr": "Inf. Réa.", "role_ar": "ممرضة إنعاش", "image": "/images/team/nurse-9.png" },
+      { "name_fr": "Bilal Fassi-Fihri", "name_ar": "بلال الفاسي الفهري", "role_fr": "Tech. Monitoring", "role_ar": "تقني مراقبة", "image": "/images/team/tech-1.png" }
+    ]
+  },
+  {
+    "id": 11,
+    "name_fr": "Ophtalmologie",
+    "name_ar": "طب وجراحة العيون",
+    "icon": "Heart",
+    "image": "https://images.unsplash.com/photo-1544837525-460d37eac88a?q=80&w=1600",
+    "desc_fr": "Préserver le sens le plus précieux via la chirurgie réfractive et les soins oculaires de pointe.",
+    "desc_ar": "الحفاظ على حاسة البصر التي لا تقدر بثمن من خلال الرعاية وجراحة تصحيح النظر المتقدمة.",
+    "services_fr": ["Chirurgie Réfractive", "Chirurgie de la Cataracte", "Rétine et Glaucome", "Ophtalmologie Pédiatrique"],
+    "services_ar": ["جراحة تصحيح النظر", "عمليات المياه البيضاء", "الشبكية والجلوكوما", "طب عيون الأطفال"],
+    "equipments_fr": ["Appareil de phaco AMO", "Constellation Alcon", "Microscope opératoire Zeiss dernière génération", "Angiographe ZEISS", "ANGIO OCT Optovue"],
+    "equipments_ar": ["جهاز الفاكو AMO للمياه البيضاء", "نظام كونستليشن Alcon", "ميكروسكوب زايس الجراحي", "جهاز تصوير الأوعية ZEISS", "نظام مسح مقطعي OCT Optovue"],
+    "gallery": [
+      "https://images.unsplash.com/photo-1544837525-460d37eac88a?q=80&w=1600",
+      "https://images.unsplash.com/photo-1584982751601-97dcc096659c?q=80&w=1600",
+      "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?q=80&w=1600"
+    ],
+    "detailed_content_fr": [
+      "L’ophtalmologie est la spécialité médicale et chirurgicale qui traite les troubles de la vue, de l’œil et de ses annexes : les paupières, les glandes et canaux lacrymaux. Qu’il s’agisse d’une urgence oculaire, d’un contrôle de vue, d’un suivi de traitement ou d’un dépistage.",
+      "La clinique vous met en relation avec les ophtalmologues qui interviennent sur de nombreuses pathologies oculaires. Spécialité chirurgicale et optique, l’ophtalmologie traite des dérèglements oculaires, des anomalies et autres affections de l’œil les plus sérieuses en utilisant le marquage laser et la microchirurgie de haute voltige."
+    ],
+    "detailed_content_ar": [
+      "طب العيون هو التخصص الطبي والجراحي الذي يعالج اضطرابات الرؤية والعين وملحقاتها: الجفون، الغدد والقنوات الدمعية. سواء كانت حالة طارئة في العين، فحص نظر، أو فحص للتحضير لعملية جراحية.",
+      "تضعك المصحة على اتصال مباشر مع أطباء العيون الذين يتدخلون في العديد من أمراض العين. يعالج طب العيون التشوهات البصرية والاعتلالات الدقيقة للعين بأفضل أنظمة الليزر والإجراءات الميكروسكوبية ذات الجودة العالية."
+    ],
+    "team": [
+      { "name_fr": "Sanae Mohammedi", "name_ar": "سناء المحمدي", "role_fr": "Infirmière Ophta", "role_ar": "ممرضة عيون", "image": "/images/team/nurse-2.png" },
+      { "name_fr": "Adil Ouakrim", "name_ar": "عادل واكريم", "role_fr": "Tech. Optique", "role_ar": "تقني بصريات", "image": "/images/team/tech-2.png" }
+    ]
+  }
+]

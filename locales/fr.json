@@ -1,0 +1,82 @@
+{
+  "nav": {
+    "email": "contact@polyclinique-tafilalet.ma",
+    "phone": "05 35 52 55 25",
+    "address": "Meknès, Maroc",
+    "member": "Votre Santé, Notre Priorité",
+    "home": "ACCUEIL",
+    "about": "À PROPOS",
+    "services": "SERVICES",
+    "doctors": "MÉDECINS",
+    "admission": "ADMISSION",
+    "more": "PLUS",
+    "faq": "Question fréquente",
+    "media": "Média",
+    "blog": "Blog",
+    "feedback": "Votre retour d'expérience",
+    "careers": "Recrutement",
+    "appointment": "Rendez-vous"
+  },
+  "hero": {
+    "slide1_headline": "TOUS VOS BESOINS DE SANTÉ",
+    "slide1_subline": "SOUS UN MÊME TOIT",
+    "slide2_headline": "SOINS MÉDICAUX AVANCÉS",
+    "slide2_subline": "POUR VOTRE FAMILLE",
+    "find_doctor": "Trouver un Médecin",
+    "about_us": "À Propos"
+  },
+  "quick": {
+    "international": "Patients Internationaux",
+    "international_desc": "Services dédiés aux patients étrangers",
+    "departments": "Départements",
+    "doctors": "Nos Médecins",
+    "assessment": "Bilan de Santé",
+    "assessment_desc": "Évaluez votre état de santé",
+    "appointment": "Prendre RDV",
+    "appointment_desc": "Réservez votre consultation",
+    "contact": "Contact & Urgences"
+  },
+  "why": {
+    "subtitle": "Nos Engagements",
+    "title": "Pourquoi nous choisir ?",
+    "quality": "Excellente Qualité",
+    "experience": "Expérience Exceptionnelle",
+    "tech": "Technologie & Innovation",
+    "approach": "Approche Multidisciplinaire"
+  },
+  "departments": {
+    "subtitle": "Le guide complet de tous nos départements.",
+    "title": "Centres & Départements",
+    "see_all": "Voir tous les départements"
+  },
+  "doctors": {
+    "subtitle": "Spécialistes de classe mondiale",
+    "title": "Nos Médecins",
+    "desc": "Découvrez notre équipe de médecins hautement qualifiés.",
+    "book": "Prendre RDV",
+    "book_long": "Prendre Rendez-vous",
+    "see_all": "Voir tous les médecins"
+  },
+  "testimonials": {
+    "subtitle": "Histoires de nos patients",
+    "title": "Témoignages"
+  },
+  "blog": {
+    "subtitle": "Centre de Connaissances",
+    "title": "Dernières Actualités",
+    "see_all": "Voir toutes les actualités"
+  },
+  "footer": {
+    "desc": "Des soins primaires à la santé la plus complexe avec les dernières technologies médicales.",
+    "quick_links": "Liens Rapides",
+    "contact": "Informations de Contact",
+    "privacy": "Politique de Confidentialité",
+    "terms": "Mentions Légales",
+    "rights": "Tous droits réservés."
+  },
+  "directory": {
+    "search_placeholder": "Rechercher par médecin ou spécialité...",
+    "filter_all": "Toutes les spécialités",
+    "no_results": "Aucun médecin trouvé."
+  }
+}

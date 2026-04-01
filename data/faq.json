@@ -1,0 +1,58 @@
+[
+  {
+    "id": 1,
+    "q_fr": "Puis-je venir sans rendez-vous ? Ou encore prendre rendez-vous par téléphone ?",
+    "a_fr": "Le fonctionnement de la clinique rend la prise de rendez-vous sur place difficile pour la journée même afin de garantir un temps de qualité pour chaque patient. Appelez-nous plutôt au 05 35 52 55 25 pour plus de facilité et pour programmer votre visite.",
+    "q_ar": "هل يمكنني الحضور بدون موعد؟ أو تحديد موعد عبر الهاتف؟",
+    "a_ar": "نظام عمل المصحة يجعل من الصعب أخذ موعد في نفس اليوم عند الحضور شخصياً لضمان جودة الوقت لكل مريض. لسهولة أكبر، يرجى الاتصال بنا على الرقم 0535525525 لتحديد موعد زيارتك."
+  },
+  {
+    "id": 2,
+    "q_fr": "Combien de temps avant la consultation dois-je me présenter à la clinique ?",
+    "a_fr": "Nous vous recommandons d'arriver 15 à 20 minutes avant l’heure réservée. Ceci facilite grandement la gestion des imprévus de part et d’autre, tout en permettant à notre secrétariat de finaliser l’enregistrement informatique de votre dossier médical en toute sérénité.",
+    "q_ar": "كم من الوقت قبل الاستشارة يجب أن أحضر إلى المصحة؟",
+    "a_ar": "نوصي بالحضور من 15 إلى 20 دقيقة قبل الوقت المحدد. هذا يسهل بشكل كبير التعامل مع أي أمور طارئة، ويتيح لفريق الاستقبال إكمال التسجيل الإلكتروني لملفك الطبي بكل هدوء."
+  },
+  {
+    "id": 3,
+    "q_fr": "Qu’advient-il si j’ai besoin d’une radiographie ou d’une prise de sang urgente ?",
+    "a_fr": "La Polyclinique Tafilalet dispose d’un centre radiologique polyvalent ouvert 24h/24 et 7j/7. Nous travaillons également en collaboration immédiate avec des laboratoires d’analyses intégrés pour que vous n'ayez jamais à quitter l'établissement lors d'une démarche diagnostique.",
+    "q_ar": "ماذا يحدث إذا احتجت إلى صورة أشعة أو فحص دم عاجل؟",
+    "a_ar": "تتوفر مصحة تافيلالت على مركز أشعة متكامل يفتح أبوابه على مدار 24 ساعة طوال أيام الأسبوع. كما نتعاون فوراً مع مختبرات التحليلات المدمجة حتى لا تضطر أبدًا لمغادرة المصحة أثناء التشخيص."
+  },
+  {
+    "id": 4,
+    "q_fr": "Puis-je venir accompagné(e) d’un proche en consultation ?",
+    "a_fr": "Oui, c’est tout à fait possible et même encouragé. La consultation est le moment où s’instaure le climat de confiance vital entre vous et votre médecin. Votre proche pourra vous aider à poser les questions nécessaires et écouter les consignes de suivi avec vous.",
+    "q_ar": "هل يمكنني اصطحاب أحد الأقارب معي أثناء الاستشارة؟",
+    "a_ar": "نعم، هذا ممكن تماماً ونشجع عليه. الاستشارة هي الوقت الذي يتم فيه بناء الثقة بينك وبين طبيبك. يمكن لقريبك مساعدتك في طرح الأسئلة والتأكد من استيعاب جميع التوجيهات الطبية."
+  },
+  {
+    "id": 5,
+    "q_fr": "Est-ce que le chirurgien que j’ai vu en consultation est celui qui m’opèrera ?",
+    "a_fr": "En dehors des situations d’urgence nocturnes absolues, le chirurgien que vous aurez vu en consultation est rigoureusement celui qui s'occupera de votre intervention. La relation de confiance médecin-patient est sacrée au sein de notre établissement.",
+    "q_ar": "هل الجراح الذي رأيته في الاستشارة هو من سيقوم بالعملية؟",
+    "a_ar": "باستثناء حالات طوارئ الليلية القصوى، الجراح الذي عاينك في الاستشارة هو بالتأكيد من سيشرف على عمليتك. علاقة الثقة بين الطبيب والمريض مقدسة في مؤسستنا."
+  },
+  {
+    "id": 6,
+    "q_fr": "Pourquoi dois-je voir l’anesthésiste en consultation au moins 48h avant l'intervention ?",
+    "a_fr": "C'est une obligation légale et médicale absolue visant votre sécurité. Une consultation d’anesthésie programmée permet de préparer l'opération, d'anticiper les risques d'allergie ou d'interaction médicamenteuse, et de prescrire si nécessaire un bilan sanguin complémentaire.",
+    "q_ar": "لماذا يجب أن أرى طبيب التخدير في الاستشارة قبل 48 ساعة على الأقل من العملية؟",
+    "a_ar": "هذا التزام طبي وقانوني صارم يهدف لضمان سلامتك. تتيح استشارة التخدير التحضير الجيد للعملية، وتوقع أي مخاطر حساسية أو تفاعلات دوائية، ووصف تحاليل دم إضافية إذا لزم الأمر."
+  },
+  {
+    "id": 7,
+    "q_fr": "Quels sont les horaires d’ouverture des urgences et des visites ?",
+    "a_fr": "Le service des urgences et de réanimation de la clinique est ouvert 24H/24 et 7J/7, sans interruption. Les visites aux patients hospitalisés sont autorisées généralement l'après-midi, dans le respect strict des chartes de silence et d'hygiène.",
+    "q_ar": "ما هي أوقات عمل قسم الطوارئ والزيارات؟",
+    "a_ar": "قسم الطوارئ والإنعاش بالمصحة مفتوح على مدار الساعة وطوال أيام الأسبوع بدون انقطاع. يُسمح بزيارة المرضى المقيمين في فترة بعد الظهر عموماً، مع الالتزام الصارم بقواعد الهدوء والنظافة."
+  },
+  {
+    "id": 8,
+    "q_fr": "Où puis-je déposer une réclamation ou faire un retour sur mon séjour ?",
+    "a_fr": "Nous accordons une importance majeure à l'amélioration continue. Vous pouvez envoyer vos retours d'expérience ou toute réclamation directement à la direction via l'adresse mail officielle : contact@polyclinique-tafilalet.ma. Soyez assuré qu'elle sera traitée très rapidement.",
+    "q_ar": "أين يمكنني تقديم شكوى أو إبداء رأيي حول إقامتي؟",
+    "a_ar": "نحن نولي أهمية قصوى للتحسين المستمر. يمكنك إرسال آرائك أو أي شكوى مباشرة إلى الإدارة عبر البريد الإلكتروني: contact@polyclinique-tafilalet.ma، وسوف يتم معالجتها بسرعة بالغة."
+  }
+]

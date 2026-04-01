@@ -1,0 +1,152 @@
+[
+  {
+    "id": 1,
+    "title_fr": "L'Intelligence Artificielle Révolutionne la Chirurgie Cardiaque",
+    "title_ar": "الذكاء الاصطناعي يُحدث ثورة في جراحة القلب",
+    "excerpt_fr": "Comment la dernière technologie de cartographie 3D implémentée de façon inédite à la Polyclinique Tafilalet permet de réparer les malformations avec 99% de précision.",
+    "excerpt_ar": "كيف تتيح أحدث تقنية رسم ثلاثي الأبعاد المعتمدة حصرياً في مصحة تافيلالت إصلاح التشوهات بدقة تصل إلى 99٪.",
+    "category_fr": "Innovation",
+    "category_ar": "ابتكار طبي",
+    "image": "https://images.unsplash.com/photo-1544837525-460d37eac88a?auto=format&fit=crop&q=80&w=1600",
+    "date": "28 Mars, 2026",
+    "featured": true,
+    "readTime": "5 min",
+    "content_fr": [
+      "Dans un monde où la médecine évolue à une vitesse fulgurante, la Polyclinique Tafilalet s'impose comme un centre d'excellence médicale, alliant les dernières technologies chirurgicales et diagnostiques à une prise en charge humaine.",
+      "Le déploiement de l'intelligence artificielle en chirurgie cardiaque n'est plus de la science-fiction. Il s'agit aujourd'hui d'une réalité clinique concrète. Nos chirurgiens s'appuient désormais sur des algorithmes capables de modéliser le muscle cardiaque en 3D avec une résolution millimétrique, permettant d'anticiper la trajectoire des cathéters avant même le début de l'opération.",
+      "L'impact sur la récupération du patient est monumental : des incisions réduites, un temps sous anesthésie diminué de 30% en moyenne, et un rétablissement post-opératoire accéléré."
+    ],
+    "content_ar": [
+      "في عالم يتطور فيه الطب بسرعة ملحوظة، تبرز مصحة تافيلالت كمركز للتميز الطبي، حيث تجمع بين أحدث التقنيات الجراحية وبين الرعاية الإنسانية التي تضع المريض في قلب الاهتمام.",
+      "لم يعد توظيف الذكاء الاصطناعي في جراحة القلب خيالاً علمياً، بل أصبح حقيقة سريرية. يعتمد جراحونا اليوم على خوارزميات قادرة على تصميم نموذج ثلاثي الأبعاد لعضلة القلب بدقة متناهية، مما يتيح التنبؤ بمسار القسطرة قبل بدء العملية.",
+      "إن التأثير على تعافي المريض هائل: شقوق جراحية أصغر، تقليل وقت التخدير بنسبة 30٪ في المتوسط، وتسريع ملحوظ في مرحلة النقاهة."
+    ],
+    "quote_fr": "L'alliance entre l'expertise humaine et l'algorithmique prédictive nous permet d'atteindre l'inégalable.",
+    "quote_ar": "التحالف بين الخبرة البشرية والخوارزميات التنبؤية يمكننا من بلوغ مستويات غير مسبوقة من الدقة."
+  },
+  {
+    "id": 2,
+    "title_fr": "Pourquoi la prévention du Cancer du Sein commence à 40 ans ?",
+    "title_ar": "لماذا تبدأ الوقاية من سرطان الثدي في سن الأربعين؟",
+    "excerpt_fr": "Le dépistage précoce présente un taux de survie inégalé. Apprenez pourquoi notre nouveau Pôle d'Imagerie et d'Oncologie recommande une numérisation préventive pour toutes les femmes.",
+    "excerpt_ar": "يوفر الفحص المبكر نسبة نجاة منقطعة النظير. تعرفي على سبب التوصية الصارمة لمركز التصوير الجديد بضرورة الفحص الوقائي.",
+    "category_fr": "Prévention",
+    "category_ar": "توعية ووقاية",
+    "image": "https://images.unsplash.com/photo-1579684385127-1ef15d508118?auto=format&fit=crop&q=80&w=800",
+    "date": "20 Mars, 2026",
+    "featured": false,
+    "readTime": "4 min",
+    "content_fr": [
+      "Le cancer du sein reste l'un des fléaux les plus diagnostiqués chez les femmes au Maroc. Cependant, une vérité essentielle demeure : lorsqu'il est détecté à un stade précoce, les taux de survie à long terme dépassent les 90%.",
+      "La Polyclinique Tafilalet a récemment inauguré son Pôle Mère-Enfant intégrant un centre d'Imagerie dédié à la santé féminine. Équipé de mammographes numériques de dernière génération, ce pôle est conçu pour détecter les micro-calcifications des années avant qu'elles ne soient palpables.",
+      "Les spécialistes internationaux s'accordent aujourd'hui sur l'importance du screening à partir de 40 ans, et encore plus tôt si des antécédents familiaux existent."
+    ],
+    "content_ar": [
+      "لا يزال سرطان الثدي واحداً من أكثر الأمراض تشخيصاً بين النساء في المغرب. ومع ذلك، هناك حقيقة أساسية: عند اكتشافه في مراحله المبكرة، تتجاوز معدلات البقاء على قيد الحياة 90٪.",
+      "افتتحت مصحة تافيلالت مؤخراً قطب الأم والطفل الخاص بها، والذي يضم مركزاً متطوراً للتصوير مخصصاً لصحة المرأة، ومجهزاً بأجهزة الماموجرام الرقمية القادرة على اكتشاف التكلسات الدقيقة قبل سنوات من الإحساس بها.",
+      "يتفق الأخصائيون الدوليون اليوم على أهمية الفحص بدءاً من سن الأربعين، وربما قبل ذلك في حالة وجود سوابق عائلية."
+    ],
+    "quote_fr": "Un diagnostic anticipé n'est pas seulement une chance de survie, c'est la garantie d'un traitement moins lourd.",
+    "quote_ar": "التشخيص المبكر ليس مجرد فرصة للنجاة، بل هو ضمان لخضوع المريضة لعلاجات أقل قسوة."
+  },
+  {
+    "id": 3,
+    "title_fr": "Pédiatrie : Aider votre enfant à apprivoiser l'hôpital",
+    "title_ar": "طب الأطفال: مساعدة طفلك على عدم الخوف من المستشفى",
+    "excerpt_fr": "Comprendre les angoisses des plus petits et découvrir nos environnements de soins ludiques pensés pour transformer l'appréhension en un jeu d'exploration bienveillant.",
+    "excerpt_ar": "فهم مخاوف الأطفال الصغار واكتشاف بيئاتنا العلاجية الممتعة المصممة لتحويل القلق إلى لعبة استكشاف مريحة.",
+    "category_fr": "Pédiatrie",
+    "category_ar": "طب الأطفال",
+    "image": "https://images.unsplash.com/photo-1519494026892-80bbd2d6fd0d?auto=format&fit=crop&q=80&w=800",
+    "date": "15 Mars, 2026",
+    "featured": false,
+    "readTime": "3 min",
+    "content_fr": [
+      "L'hospitalisation, même brève, est souvent une source de stress monumental pour un enfant. Face aux blouses blanches et aux machines au design robotique, le jeune patient se sent vulnérable.",
+      "À la Polyclinique Tafilalet, nous avons repensé le parcours pédiatrique pour le transformer en un \"parcours ludique\". Les couloirs sont colorés, les salles de consultation abritent des jouets éducatifs, et nos infirmiers sont formés à la psychologie de l'enfant pour administrer les soins sous forme de jeu.",
+      "Nous encourageons d'ailleurs la présence parentale continue tout au long du séjour, assurant ainsi un cocon affectif protecteur indispensable au bon rétablissement."
+    ],
+    "content_ar": [
+      "غالباً ما يمثل الاستشفاء، حتى وإن كان لمدة قصيرة، مصدراً لتوتر هائل عند الأطفال. ففي مواجهة المعاطف البيضاء والأجهزة ذات التصميم الآلي، يشعر المريض الصغير بالضعف.",
+      "في مصحة تافيلالت، قمنا بإعادة تصميم مسار طب الأطفال ليتحول إلى 'مسار ممتع'. الممرات ملونة، وغرف الاستشارة تحتوي على ألعاب تعليمية، وفريقنا التمريضي مدرب على سيكولوجية الأطفال لتقديم العلاجات وكأنها جزء من اللعب.",
+      "كما نحفز التواجد المستمر للآباء طوال فترة الإقامة، لضمان توفير الجو العاطفي الدافئ الضروري للتعافي الجيد."
+    ],
+    "quote_fr": "La guérison commence là où disparaît la peur. Notre mission est de faire sourire nos petits héros.",
+    "quote_ar": "يبدأ الشفاء عندما يختفي الخوف. مهمتنا هي رسم البسمة على وجوه أبطالنا الصغار."
+  },
+  {
+    "id": 4,
+    "title_fr": "L'Ère de la Chirurgie Ambulatoire : Rentrer chez soi le jour même",
+    "title_ar": "عصر جراحة اليوم الواحد: العودة إلى المنزل في نفس اليوم",
+    "excerpt_fr": "La médecine moderne privilégie la récupération ultra-rapide. Découvrez les procédures ciblées qui ne nécessitent plus d'hospitalisation de longue durée en traumatologie et gynécologie.",
+    "excerpt_ar": "يطمح الطب الحديث إلى توفير تعافي فائق السرعة. اكتشف الإجراءات الدقيقة التي لم تعد تتطلب إقامة طويلة في المستشفى.",
+    "category_fr": "Expertise Clinique",
+    "category_ar": "خبرة سريرية",
+    "image": "https://images.unsplash.com/photo-1582719478250-c89400bbbfc5?auto=format&fit=crop&q=80&w=800",
+    "date": "08 Mars, 2026",
+    "featured": false,
+    "readTime": "6 min",
+    "content_fr": [
+      "Historiquement, une intervention chirurgicale était synonyme de plusieurs jours, voire semaines, d'hospitalisation. Aujourd'hui, l'introduction de techniques mini-invasives et d'anesthésies ultra-ciblées a révolutionné cette norme.",
+      "Le principe de la chirurgie ambulatoire est simple : admettre le patient le matin, opérer en utilisant des outils laparoscopiques ou micro-chirurgicaux, et autoriser le retour à domicile le jour même.",
+      "À la Polyclinique Tafilalet, ce circuit court est utilisé excellemment pour la traumatologie légère, certaines interventions gynécologiques, urologiques et ophtalmologiques, diminuant considérablement le risque d'infections nosocomiales et augmentant le confort psychologique du patient."
+    ],
+    "content_ar": [
+      "تاريخياً، كانت الجراحة تعني قضاء عدة أيام أو أسابيع في المستشفى. أما اليوم، أحدث إدخال تقنيات التدخل الجراحي المحدود والتبنيج عالي الدقة ثورة في هذا المعيار.",
+      "مبدأ جراحة اليوم الواحد بسيط: يتم إدخال المريض في الصباح، ليخضع للعملية باستخدام أدوات التنظير أو الجراحة المجهرية الدقيقة، ويسمح له بالعودة إلى المنزل في نفس اليوم.",
+      "في مصحة تافيلالت، يُعتمد هذا المسار القصير بنجاح في حالات الرضوح الخفيفة وبعض التدخلات الجراحية النسائية والبولية والعيون، مما يقلل بشكل كبير من مخاطر العدوى داخل المستشفى ويعزز الراحة النفسية للمريض."
+    ],
+    "quote_fr": "Moins de temps à la clinique signifie plus de temps de récupération dans le confort rassurant de son foyer.",
+    "quote_ar": "تقليص الوقت الذي يقضيه المريض في المصحة يعني مزيداً من وقت التعافي ضمن راحة منزله."
+  },
+  {
+    "id": 5,
+    "title_fr": "Réussir son rétablissement orthopédique : 5 Erreurs à éviter",
+    "title_ar": "نجاح التأهيل بعد جراحة العظام: 5 أخطاء يجب تجنبها",
+    "excerpt_fr": "Les physiothérapeutes de notre unité vous guident à travers les faux-pas fréquents lors de la rééducation après la pose d'une prothèse ou une opération articulaire.",
+    "excerpt_ar": "يرشدك أخصائيو العلاج الطبيعي في قسمنا حول كيفية تجنب الأخطاء الشائعة أثناء إعادة التأهيل بعد عمليات المفاصل.",
+    "category_fr": "Santé & Bien-être",
+    "category_ar": "صحة وتأهيل",
+    "image": "https://images.unsplash.com/photo-1551076805-e1869033e561?auto=format&fit=crop&q=80&w=800",
+    "date": "02 Mars, 2026",
+    "featured": false,
+    "readTime": "7 min",
+    "content_fr": [
+      "La rééducation qui suit une chirurgie orthopédique, telle que la pose d'une prothèse de hanche ou de genou, représente plus de 50% de la réussite totale de la procédure.",
+      "La première erreur est de vouloir brûler les étapes : reprendre une charge complète trop tôt expose les tissus en cicatrisation à des risques de rupture. Inversement, l'erreur d'immobilité totale retarde la récupération musculaire et articulaire.",
+      "Nos kinésithérapeutes insistent sur un programme millimétré, où l'hydratation, la régularité des exercices à domicile, et l'écoute des signaux d'alarme du corps sont les clés d'une reconstruction biologique durable."
+    ],
+    "content_ar": [
+      "تعتبر إعادة التأهيل التي تلي جراحة العظام، كوضع مفصل اصطناعي للورك أو الركبة، أكثر من 50٪ من مفتاح نجاح الإجراء الجراحي ككل.",
+      "الخطأ الأول هو استعجال المراحل: فتطبيق حمل كامل على المفصل في وقت مبكر يعرض الأنسجة التي تتماثل للشفاء لمخاطر التمزق. وعلى العكس من ذلك، يؤدي الخمول التام إلى تأخير استعادة الوظائف العضلية والمفصلية.",
+      "يؤكد أخصائيو العلاج الطبيعي لدينا على ضرورة اتباع برنامج محكم، حيث يعتبر الترطيب المستمر وممارسة التمارين بانتظام في المنزل فضلاً عن الاستماع لإشارات الجسم، مفاتيح أساسية لبناء عضلي قوي ومستدام."
+    ],
+    "quote_fr": "Le muscle a une excellente mémoire, mais il faut lui donner le temps et le bon rythme pour se reconstruire.",
+    "quote_ar": "للعضلات ذاكرة ممتازة، ولكن يجب منحها الوقت والإيقاع المناسبين لإعادة بناء نفسها."
+  },
+  {
+    "id": 6,
+    "title_fr": "Que savez-vous sur la santé du système urinaire et de la prostate ?",
+    "title_ar": "ماذا تعرف عن صحة الجهاز البولي ووظائفه البروستاتية؟",
+    "excerpt_fr": "L'équipe du service d'Urologie de la Polyclinique Tafilalet a tenu une table ronde sur le traitement des calculs par laser dernière génération holmium de très haute fluidité.",
+    "excerpt_ar": "عقد فريق قسم جراحة المسالك البولية في مصحة تافيلالت ندوة حول علاج وعمليات الحصوات باستخدام أحدث أجهزة الليزر الهولميوم.",
+    "category_fr": "Recherche",
+    "category_ar": "أبحاث وندوات",
+    "image": "https://images.unsplash.com/photo-1530497610245-94d3c16cda28?auto=format&fit=crop&q=80&w=800",
+    "date": "24 Février, 2026",
+    "featured": false,
+    "readTime": "4 min",
+    "content_fr": [
+      "Les troubles liés au système urinaire, bien que très fréquents, souffrent encore d'un tabou persistant. Qu'il s'agisse de lithiase urinaire (calculs) ou d'hypertrophie bénigne de la prostate, ces maladies affectent drastiquement la qualité de vie.",
+      "Grâce aux nouvelles acquisitions techniques de la clinique, notamment le laser Holmium 100W, il est désormais possible de pulvériser les calculs les plus denses par les voies naturelles, sans aucune incision abdominale.",
+      "Toute l'équipe urologique encourage les hommes, passé le cap des 50 ans, à effectuer des dépistages annuels pour devancer toute complication rénale ou tumorale."
+    ],
+    "content_ar": [
+      "رغم شيوع الاضطرابات المرتبطة بالجهاز البولي، إلا أنها لا تزال تعاني من إحجام الكثيرين عن التحدث فيها. وسواء تعلق الأمر بحصوات المسالك البولية أو تضخم البروستاتا الحميد، فإن هذه الحالات تؤثر سلباً على جودة الحياة.",
+      "بفضل الاقتناءات التقنية الجديدة، لا سيما أجهزة ليزر الهولميوم عالية القوة، أصبح من الممكن تفتيت أصلب الحصوات عبر الممرات الطبيعية، وبدون أي شق جراحي في البطن.",
+      "يشجع الفريق الطبي المتخصص بجميع فروعه الرجال الذين تجاوزوا سن الخمسين على إجراء فحوصات سنوية لتدارك أي مضاعفات في الكلى."
+    ],
+    "quote_fr": "L'innovation endoscopique a rendu des procédures hier douloureuses, aujourd'hui pratiquement invisibles et indolores.",
+    "quote_ar": "حولت الابتكارات التنظيرية الإجراءات الطبية المؤلمة بالأمس إلى تقنيات غير مرئية وتقريباً بدون أي ألم اليوم."
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "name_fr": "Ahmed K.",
+    "name_ar": "أحمد ك.",
+    "location_fr": "Amman",
+    "location_ar": "عمان",
+    "quote_fr": "Les soins que j'ai reçus étaient d'une qualité exceptionnelle. L'équipe chirurgicale s'est assurée que je sois à l'aise à chaque étape.",
+    "quote_ar": "الرعاية التي تلقيتها كانت ذات جودة استثنائية. حرص الفريق الجراحي على راحتي وإعلامي في كل خطوة.",
+    "videoThumb": "https://images.unsplash.com/photo-1516549655169-df83a0774514?w=800&q=80"
+  },
+  {
+    "id": 2,
+    "name_fr": "Fatima S.",
+    "name_ar": "فاطمة س.",
+    "location_fr": "Dubaï",
+    "location_ar": "دبي",
+    "quote_fr": "Voyager pour se faire soigner est intimidant, mais le centre pour patients internationaux s'est occupé de tous mes besoins.",
+    "quote_ar": "السفر من أجل العلاج أمر شاق، لكن مركز المرضى الدوليين اهتم بكل احتياجاتي. تجربة رائعة بكل بساطة.",
+    "videoThumb": "https://images.unsplash.com/photo-1538688423619-a81d3f23454b?w=800&q=80"
+  },
+  {
+    "id": 3,
+    "name_fr": "Omar M.",
+    "name_ar": "عمر م.",
+    "location_fr": "Qatar",
+    "location_ar": "قطر",
+    "quote_fr": "Leur approche multidisciplinaire signifie que j'ai eu trois spécialistes différents qui ont consulté mon cas pour trouver le meilleur résultat possible.",
+    "quote_ar": "كان النهج متعدد التخصصات يعني أن ثلاثة متخصصين مختلفين استشاروا حالتي لإيجاد أفضل نتيجة ممكنة.",
+    "videoThumb": "/images/multidisciplinary.png"
+  }
+]

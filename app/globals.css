@@ -1,0 +1,47 @@
+@import "tailwindcss";
+
+@plugin "tailwindcss-animate";
+
+@theme {
+  --color-primary: #0B3C5D;
+  --color-primary-light: #155582;
+  --color-secondary: #00A8A8;
+  --color-secondary-light: #00C6C6;
+  --color-accent: #0288D1;
+  --color-light-gray: #F4F4F4;
+  --color-dark-slate: #333333;
+  --color-background: #ffffff;
+  --color-foreground: #333333;
+  --font-sans: var(--font-geist-sans), sans-serif;
+  --font-mono: var(--font-geist-mono), monospace;
+}
+
+:root {
+  --background: #ffffff;
+  --foreground: #333333;
+}
+
+body {
+  background-color: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-sans);
+  overflow-x: hidden;
+}
+
+html[dir="rtl"] body, html[dir="rtl"] body * {
+  font-family: var(--font-tajawal), sans-serif !important;
+}
+
+html[dir="rtl"] body .text-left {
+  text-align: right !important;
+}
+
+html[dir="rtl"] body .text-right {
+  text-align: left !important;
+}
+
+/* Ensure direction is visually correct for some generic components */
+html[dir="rtl"] body .ml-auto {
+  margin-right: auto !important;
+  margin-left: 0 !important;
+}
