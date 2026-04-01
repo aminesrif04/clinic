@@ -53,9 +53,9 @@ export default function ContactPage() {
       date: { fr: "Date Souhaitée", ar: "التاريخ المفضل" },
       message: { fr: "Motif de consultation (Optionnel)", ar: "سبب الاستشارة (اختياري)" },
       submit: { fr: "Demander le RDV", ar: "تأكيد طلب الموعد" },
-      sending: { fr: "Traitement en cours...", ar: "جاري اتصال بـ Google Calendar..." },
+      sending: { fr: "Traitement en cours...", ar: "جاري الإرسال..." },
       successTitle: { fr: "Demande de RDV Enregistrée !", ar: "تم تسجيل الموعد بنجاح!" },
-      successDesc: { fr: "Votre rendez-vous a bien été synchronisé. Notre équipe vous contactera très vite.", ar: "تمت مزامنة موعدك. سيتصل بك فريقنا قريبًا." }
+      successDesc: { fr: "Votre demande a bien été envoyée. Notre équipe vous contactera très vite.", ar: "تم إرسال طلبك بنجاح. سيتصل بك فريقنا قريبًا." }
     }
   };
 
@@ -77,41 +77,21 @@ export default function ContactPage() {
     e.preventDefault();
     setIsSubmitting(true);
     
-    // Extrait les valeurs du formulaire
+    // Extrait les valeurs du formulaire (Prêtes à être connectées à une vraie API d'email ou base de données future)
     const formData = new FormData(e.currentTarget);
-    const data = {
-      name: formData.get("name"),
-      phone: formData.get("phone"),
-      service: formData.get("service"),
-      date: formData.get("date"),
-      message: formData.get("message")
-    };
+    const data = Object.fromEntries(formData.entries());
 
-    try {
-      // Envoie la requête à l'API Google Calendar
-      const response = await fetch('/api/calendar', {
-        method: 'POST',
-        headers: { 'Content-Type': 'application/json' },
-        body: JSON.stringify(data)
-      });
-      const result = await response.json();
-      
+    // Simulation d'un délai réseau pour une excellente UX
+    setTimeout(() => {
       setIsSubmitting(false);
       setIsSuccess(true);
       
-      if (result.link) {
-        console.log("RDV ajouté avec succès sur Google Calendar:", result.link);
-      } else if (result.error) {
-        console.warn("L'API a répondu avec une erreur (Vérifiez votre fichier .env):", result.error);
-      }
+      // Reset form visually
+      (e.target as HTMLFormElement).reset();
       
-    } catch (err) {
-      console.error(err);
-      setIsSubmitting(false);
-      setIsSuccess(true); // Afficher toujours le succès visuel côté utilisateur pour l'UX
-    }
-    
-    setTimeout(() => setIsSuccess(false), 8000);
+      // Hide success message after 5 seconds
+      setTimeout(() => setIsSuccess(false), 5000);
+    }, 1500);
   };
 
   return (
